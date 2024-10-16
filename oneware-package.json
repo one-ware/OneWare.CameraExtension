@@ -1,0 +1,37 @@
+{
+    "category": "Extensions",
+    "type": "Hardware",
+    "name": "CameraExtension Support",
+    "id": "OneWare.CameraExtension",
+    "description": "VHDPlus CameraExtension Support",
+    "iconUrl": "https://raw.githubusercontent.com/one-ware/OneWare.CameraExtension/main/demo.png",
+    "license": "MIT",
+    "tabs": [
+      {
+        "title": "Readme",
+        "contentUrl": "https://raw.githubusercontent.com/one-ware/OneWare.CameraExtension/main/README.md"
+      },
+      {
+        "title": "License",
+        "contentUrl": "https://raw.githubusercontent.com/one-ware/OneWare.CameraExtension/main/LICENSE"
+      }
+    ],
+    "links": [
+      {
+        "name": "Github",
+        "url": "https://github.com/one-ware/OneWare.CameraExtension"
+      }
+    ],
+    "versions": [
+      {
+        "version": "1.0",
+        "targets": [
+          {
+            "target": "all",
+            "url": "https://github.com/one-ware/OneWare.CameraExtension/releases/download/1.0/OneWare.CameraExtension_1.0_all.zip"
+          }
+        ]
+      }
+    ]
+  }
+  
