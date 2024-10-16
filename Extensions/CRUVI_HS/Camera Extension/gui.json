@@ -1,0 +1,26 @@
+{
+  "width": 88,
+  "height": 230,
+  "offset": "0 -150 0 0",
+  "elements": [
+    {
+      "type": "rect",
+      "x": 0,
+      "y": 0,
+      "width": 88,
+      "height": 230,
+      "color": "#474747",
+      "cornerRadius": "3",
+      "boxShadow": "0 0 5 5 #77000000",
+      "text": "Camera Extension"
+    },
+    {
+      "type": "rect",
+      "x": 10,
+      "y": 0,
+      "width": 68,
+      "height": 30,
+      "color": "#5F5F5F"
+    }
+  ]
+}
