@@ -28,7 +28,7 @@
         "targets": [
           {
             "target": "all",
-            "url": "https://github.com/one-ware/OneWare.CameraExtension/releases/download/1.0/OneWare.CameraExtension_1.0_all.zip"
+            "url": "https://github.com/one-ware/OneWare.CameraExtension/releases/download/1.0/OneWare.CameraExtension-1.0-all.zip"
           }
         ]
       }
